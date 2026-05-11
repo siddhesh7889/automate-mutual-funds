@@ -67,6 +67,6 @@ public class automateMF {
       LocalDate today = LocalDate.now();
       System.out.println(today);
 
-      // driver.quit();
+      driver.quit();
    }
 }

@@ -1,0 +1,8 @@
+# Git ignore for this Java project
+target/
+.idea/
+*.iml
+/.vscode/
+*.log
+*.class
+StockDetails.xlsx
